@@ -1,5 +1,5 @@
-/// <reference path="src/helpers/config.ts"/>
-/// <reference path="./src/documents/actor"/>
+/// <reference path="module/helpers/config.ts"/>
+/// <reference path="./module/documents/actor"/>
 
 
 
